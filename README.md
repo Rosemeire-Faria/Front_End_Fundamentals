@@ -37,18 +37,15 @@ This repository covers:
 2. User-friendly interface design.
 3. Compliance with technical requirements, quality standards, and sustainability.
 
-## 👨‍🎓 Classes and Projects
-Select your class folder to explore the individual repositories:
-
-| Class | Description | Link |
-| :--- | :--- | :--- |
-| **2501TG** | Class 2501 Projects | [Explore](./41_SPRINTS/2501TG) |
-| **2601TG** | Class 2601 Projects | [Explore](./41_SPRINTS/2601TG) |
-
-
-
 ## How to contribute your project?
 If you are a student, follow these steps to add your project to the repository:
 1. Clone the repository: `git clone https://github.com/ailton-santos/Front_End_Fundamentals.git`
 2. Navigate to a specific folder: `cd Folder_Name`
 3. Open `index.html` or run `npm install && npm dev` for React projects.
+
+## Classes and Projects
+Select your class folder to explore the individual repositories:
+| Class | Description | Link |
+| :--- | :--- | :--- |
+| **2501TG** | Class 2501 Projects | [Explore](./41_SPRINTS/2501TG) |
+| **2601TG** | Class 2601 Projects | [Explore](./41_SPRINTS/2601TG) |
